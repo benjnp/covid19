@@ -5,7 +5,7 @@
 
       <v-spacer></v-spacer>
       <v-btn text rounded to="/">Info</v-btn>
-      <v-btn text rounded to="/chart">Numbers</v-btn>
+      <v-btn text rounded to="/numbers">Numbers</v-btn>
     </v-app-bar>
 
     <v-content>
