@@ -4,7 +4,7 @@
       <v-toolbar-title>Covid 19 Philippines</v-toolbar-title>
 
       <v-spacer></v-spacer>
-      <v-btn text rounded to="/">Info</v-btn>
+      <v-btn text rounded to="/">Home</v-btn>
       <v-btn text rounded to="/numbers">Numbers</v-btn>
     </v-app-bar>
 

@@ -1874,5 +1874,19 @@
         "Recovered": 4153,
         "Active": 14621,
         "Date": "2020-06-03T00:00:00Z"
+    },
+    {
+        "Country": "Philippines",
+        "CountryCode": "PH",
+        "Province": "",
+        "City": "",
+        "CityCode": "",
+        "Lat": "12.88",
+        "Lon": "121.77",
+        "Confirmed": 20382,
+        "Deaths": 984,
+        "Recovered": 4248,
+        "Active": 15150,
+        "Date": "2020-06-04T00:00:00Z"
     }
 ]

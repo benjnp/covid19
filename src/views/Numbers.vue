@@ -75,12 +75,7 @@ export default {
       Deaths: "Deaths",
       Confirmed: "Confirmed",
       Active: "Active",
-      dropDown: [
-        "Total Line Chart",
-        "Weekly Line Chart",
-        "Daily Line Chart",
-        "Pie Charts"
-      ],
+      dropDown: ["Total Line Chart", "Weekly Line Chart", "Daily Line Chart"],
       selectedRDTotalGraph: ["Recovered", "Deaths"],
       selectedCATotalGraph: ["Confirmed", "Active"],
       cData: covidData,
