@@ -28,21 +28,14 @@
 // @ is an alias to /src
 //<img alt="Vue logo" src="../assets/anocovid.jpg" />
 
-// import News from "../assets/news";
-import axios from "axios";
+import News from "../assets/news";
 
 export default {
   name: "Home",
-  created() {
-    axios
-      .get(
-        "https://newsapi.org/v2/top-headlines?country=ph&?q=covid&apiKey=01a1a057a43c42c0a54cc2216f362f01"
-      )
-      .then(response => (this.newsData = response.data));
-  },
+
   data() {
     return {
-      newsData: {}
+      newsData: News
     };
   }
 };
