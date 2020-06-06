@@ -52,8 +52,9 @@
 </template>
 
 <script>
-import covidData from "../assets/covid";
+// import covidData from "../assets/covid";
 import moment from "moment";
+import axios from "axios";
 import CovidTotalChart from "@/components/CovidTotalChart";
 export default {
   name: "Chart",
@@ -62,7 +63,7 @@ export default {
   },
   data() {
     return {
-      choiceDropdown: "Total Line Chart",
+      choiceDropdown: "",
       graphTitle1: "Recovered vs Deaths Total Cases",
       graphTitle2: "Confirmed vs Active Total Cases",
       displayTotalConfirmed: 0,
@@ -78,7 +79,7 @@ export default {
       dropDown: ["Total Line Chart", "Weekly Line Chart", "Daily Line Chart"],
       selectedRDTotalGraph: ["Recovered", "Deaths"],
       selectedCATotalGraph: ["Confirmed", "Active"],
-      cData: covidData,
+      cData: {},
       arrDates: [],
       dailyDates: [],
       weeklyDates: [],
@@ -169,67 +170,74 @@ export default {
     }
   },
   created() {
-    let dataIndex = 1;
-    let prevConfirmed = 0;
-    let currentConfirmed = 0;
-    let prevActive = 0;
-    let currentActive = 0;
-    let prevDeaths = 0;
-    let currentDeaths = 0;
-    let prevRecovered = 0;
-    let currentRecovered = 0;
-    let thisWeekConfirmed = 0;
-    let thisWeekActive = 0;
-    let thisWeekRecovered = 0;
-    let thisWeekDeaths = 0;
-    this.cData.forEach(d => {
-      const date = moment(d.Date).format("MM/DD");
-      let { Confirmed, Deaths, Recovered, Active } = d;
-      this.arrConfirmed.push(Confirmed);
-      this.displayTotalConfirmed = Confirmed;
-      this.arrDeaths.push(Deaths);
-      this.displayTotalDeaths = Deaths;
-      this.arrActive.push(Active);
-      this.dailyDates.push(date);
-      this.arrRecovered.push(Recovered);
-      this.displayTotalRecoveries = Recovered;
-      currentConfirmed = Confirmed - prevConfirmed;
-      prevConfirmed = Confirmed;
-      thisWeekConfirmed += currentConfirmed;
-      this.dailyConfirmed.push(currentConfirmed);
-      this.displayLastDayConfirmed = currentConfirmed;
-      currentActive = Active - prevActive;
-      prevActive = Active;
-      thisWeekActive += currentActive;
-      this.dailyActive.push(currentActive);
-      currentDeaths = Deaths - prevDeaths;
-      prevDeaths = Deaths;
-      thisWeekDeaths += currentDeaths;
-      this.dailyDeaths.push(currentDeaths);
-      this.displayLastDayDeaths = currentDeaths;
-      currentRecovered = Recovered - prevRecovered;
-      prevRecovered = Recovered;
-      thisWeekRecovered += currentRecovered;
-      this.dailyRecovered.push(currentRecovered);
-      this.displayLastDayRecovered = currentRecovered;
-      if (dataIndex % 7 === 0) {
-        this.weeklyConfirmed.push(thisWeekConfirmed);
-        this.weeklyActive.push(thisWeekActive);
-        this.weeklyDeaths.push(thisWeekDeaths);
-        this.weeklyRecovered.push(thisWeekRecovered);
-        this.weeklyDates.push(date);
-        thisWeekConfirmed = 0;
-        thisWeekActive = 0;
-        thisWeekRecovered = 0;
-        thisWeekDeaths = 0;
-      }
-      dataIndex++;
-    });
-    this.datasets.Recovered.data = [...this.arrRecovered];
-    this.datasets.Deaths.data = [...this.arrDeaths];
-    this.datasets.Confirmed.data = [...this.arrConfirmed];
-    this.datasets.Active.data = [...this.arrActive];
-    this.arrDates = [...this.dailyDates];
+    axios
+      .get("https://api.covid19api.com/country/philippines")
+      .then(response => {
+        this.cData = response.data;
+        console.log("Data fetched");
+        let dataIndex = 1;
+        let prevConfirmed = 0;
+        let currentConfirmed = 0;
+        let prevActive = 0;
+        let currentActive = 0;
+        let prevDeaths = 0;
+        let currentDeaths = 0;
+        let prevRecovered = 0;
+        let currentRecovered = 0;
+        let thisWeekConfirmed = 0;
+        let thisWeekActive = 0;
+        let thisWeekRecovered = 0;
+        let thisWeekDeaths = 0;
+        this.cData.forEach(d => {
+          const date = moment(d.Date).format("MM/DD");
+          let { Confirmed, Deaths, Recovered, Active } = d;
+          this.arrConfirmed.push(Confirmed);
+          this.displayTotalConfirmed = Confirmed;
+          this.arrDeaths.push(Deaths);
+          this.displayTotalDeaths = Deaths;
+          this.arrActive.push(Active);
+          this.dailyDates.push(date);
+          this.arrRecovered.push(Recovered);
+          this.displayTotalRecoveries = Recovered;
+          currentConfirmed = Confirmed - prevConfirmed;
+          prevConfirmed = Confirmed;
+          thisWeekConfirmed += currentConfirmed;
+          this.dailyConfirmed.push(currentConfirmed);
+          this.displayLastDayConfirmed = currentConfirmed;
+          currentActive = Active - prevActive;
+          prevActive = Active;
+          thisWeekActive += currentActive;
+          this.dailyActive.push(currentActive);
+          currentDeaths = Deaths - prevDeaths;
+          prevDeaths = Deaths;
+          thisWeekDeaths += currentDeaths;
+          this.dailyDeaths.push(currentDeaths);
+          this.displayLastDayDeaths = currentDeaths;
+          currentRecovered = Recovered - prevRecovered;
+          prevRecovered = Recovered;
+          thisWeekRecovered += currentRecovered;
+          this.dailyRecovered.push(currentRecovered);
+          this.displayLastDayRecovered = currentRecovered;
+          if (dataIndex % 7 === 0) {
+            this.weeklyConfirmed.push(thisWeekConfirmed);
+            this.weeklyActive.push(thisWeekActive);
+            this.weeklyDeaths.push(thisWeekDeaths);
+            this.weeklyRecovered.push(thisWeekRecovered);
+            this.weeklyDates.push(date);
+            thisWeekConfirmed = 0;
+            thisWeekActive = 0;
+            thisWeekRecovered = 0;
+            thisWeekDeaths = 0;
+          }
+          dataIndex++;
+        });
+        this.datasets.Recovered.data = [...this.arrRecovered];
+        this.datasets.Deaths.data = [...this.arrDeaths];
+        this.datasets.Confirmed.data = [...this.arrConfirmed];
+        this.datasets.Active.data = [...this.arrActive];
+        this.arrDates = [...this.dailyDates];
+        this.choiceDropdown = "Total Line Chart";
+      });
   }
 };
 </script>

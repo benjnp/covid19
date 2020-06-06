@@ -37,6 +37,9 @@ export default {
     value1b: String,
     value2a: String,
     value2b: String
+  },
+  created() {
+    console.log("Charted");
   }
 };
 </script>
