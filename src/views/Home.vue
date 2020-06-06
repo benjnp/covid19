@@ -36,7 +36,7 @@ export default {
   created() {
     axios
       .get(
-        "http://newsapi.org/v2/top-headlines?country=ph&?q=covid&apiKey=01a1a057a43c42c0a54cc2216f362f01"
+        "https://newsapi.org/v2/top-headlines?country=ph&?q=covid&apiKey=01a1a057a43c42c0a54cc2216f362f01"
       )
       .then(response => (this.newsData = response.data));
   },
