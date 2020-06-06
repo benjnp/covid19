@@ -1,45 +1,71 @@
 {
     "status": "ok",
-    "totalResults": 8,
+    "totalResults": 38,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Daijiworld.com"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": null,
-            "title": "High blood pressure patients more likely to die from Covid-19: Study - Daijiworld.com",
-            "description": "",
-            "url": "https://www.daijiworld.com/news/newsDisplay.aspx?newsID=716257",
-            "urlToImage": "http://www.tvdaijiworld.com/images6/arun_050620.jpg",
-            "publishedAt": "2020-06-05T09:27:56Z",
-            "content": "Beijing, June 5 (IANS): Patients with raised blood pressure have a two-fold increased risk of dying from the coronavirus (Covid-19) compared to patients without high blood pressure, warn researchers.… [+2629 chars]"
+            "author": "Reuters Editorial",
+            "title": "NBA: Players OK league negotiations on 22-team return-to-play plan - Reuters",
+            "description": "The National Basketball Players Association (NBPA) agreed to further talks with the NBA on a proposed 22-team return-to-play format on Friday, another step towards resuming a season upended by the coronavirus outbreak.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-basketball-nba-idUSKBN23D02B",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200606&t=2&i=1521302900&w=1200&r=LYNXMPEG55021",
+            "publishedAt": "2020-06-06T01:29:00Z",
+            "content": "NEW YORK (Reuters) - The National Basketball Players Association (NBPA) agreed to further talks with the NBA on a proposed 22-team return-to-play format on Friday, another step towards resuming a sea… [+624 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Inquirer.net"
+                "name": "BloombergQuint"
+            },
+            "author": "Cecilia Yap",
+            "title": "Philippines’ Factory Output Falls by Most Since 2001 on Lockdown - BloombergQuint",
+            "description": "Philippines’ Factory Output Falls by Most Since 2001 on Lockdown",
+            "url": "https://www.bloombergquint.com/business/philippines-factory-output-falls-by-most-since-2001-on-lockdown",
+            "urlToImage": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2020-06-06T01:26:55Z",
+            "content": "(Bloomberg) -- Philippines manufacturing production fell by the most since 2001 in April, the first full month of lockdowns imposed to prevent the spread of the coronavirus."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Amanda Kooser",
+            "title": "How to watch the 'strawberry moon' eclipse from anywhere this weekend - CNET",
+            "description": "The partial penumbral lunar eclipse wasn't visible in North America, but you can still view the full moon's quiet beauty online.",
+            "url": "https://www.cnet.com/how-to/how-to-watch-the-strawberry-moon-eclipse-from-anywhere-this-weekend/",
+            "urlToImage": "https://cnet1.cbsistatic.com/img/Go97_-WXdvd03hfQOpWe4BxCbbg=/2018/12/21/eedfd9a2-d966-4d8a-b28e-6027b4eaa0d1/nasafullmoon.jpg",
+            "publishedAt": "2020-06-06T00:00:55Z",
+            "content": "Gianluca Masi of the Virtual Telescope Project captured this view of the \"strawberry\" full moon on June 5, 2020.\r\nGianluca Masi/Virtual Telescope Project\r\nGet ready to look to the night sky on Friday… [+1555 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GMA News"
             },
             "author": "",
-            "title": "Patients with high blood pressure have a two-fold increased risk of dying from COVID-19 — study - INQUIRER.net",
-            "description": "New research has found that having high blood could increase an individual&#039;s risk of dying from COVID-19 by two-fold, compared to those without the condition.\r\n\r\nLed by researchers from",
-            "url": "https://technology.inquirer.net/100391/patients-with-high-blood-pressure-have-a-two-fold-increased-risk-of-dying-from-covid-19-study",
-            "urlToImage": "https://technology.inquirer.net/files/2020/06/istock_83069543.3c5a7104101.original-620x413.jpg",
-            "publishedAt": "2020-06-05T08:12:00Z",
-            "content": "Image: stockvisual/Istock.com via AFP Relaxnews\r\nNew research has found that having high blood could increase an individual’s risk of dying from COVID-19 by two-fold, compared to those without the co… [+3163 chars]"
+            "title": "Suspension of public transport, shutdown of businesses burdensome for majority —SWS - GMA News",
+            "description": "Majority of Filipinos found burdensome the suspension of public transport and the shutdown of private businesses and stores, the latest survey results from Social Weather Stations showed.",
+            "url": "https://www.gmanetwork.com/news/news/nation/741451/suspension-of-public-transport-shutdown-of-businesses-burdensome-for-majority-sws/story/",
+            "urlToImage": "https://images.gmanews.tv/webpics/2020/03/traffic_2020_03_17_08_21_59.jpg",
+            "publishedAt": "2020-06-05T23:30:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Abs-cbn.com"
+                "name": "Interaksyon.com"
             },
-            "author": "ABS-CBN News",
-            "title": "Despite COVID-19 'complications' on Senate work, session successful - Zubiri - ABS-CBN News",
-            "description": "MANILA - Despite \"complications\" the Senate faced because of the coronavirus pandemic, its just adjourned session was \"remarkably productive,\" Senate Majority Leader Juan Miguel Zubiri said Friday.",
-            "url": "https://news.abs-cbn.com/news/06/05/20/despite-covid-19-complications-on-senate-work-session-successful-zubiri",
-            "urlToImage": "https://sa.kapamilya.com/absnews/abscbnnews/media/2020/news/06/05/senate-session-adjourns.jpg",
-            "publishedAt": "2020-06-05T05:59:00Z",
-            "content": "MANILA - Despite \"complications\" the Senate faced because of the coronavirus pandemic, its just adjourned session was \"remarkably productive,\" Senate Majority Leader Juan Miguel Zubiri said Friday. \r… [+3269 chars]"
+            "author": null,
+            "title": "From political stance and tablet donations to response to critics: Why Heart Evangelista made Twitter buzz - interaksyon.com",
+            "description": "Heart Evangelista once again earned online buzz again over her posts on the anti-terror bill, donations and her reaction to online critics. During the quarantine period, Evangelista kept herself busy with relief and donation programs dedicated to health worke…",
+            "url": "https://www.interaksyon.com/celebrities/2020/06/05/170142/from-political-stance-and-tablet-donations-to-response-to-critics-why-heart-evangelista-made-twitter-buzz/",
+            "urlToImage": "https://media.interaksyon.com/wp-content/uploads/2020/06/heart-evangelista-heart-evangelista.jpg",
+            "publishedAt": "2020-06-05T22:53:26Z",
+            "content": "Heart Evangelista once again earned online buzz again over her posts on the anti-terror bill, donations and her reaction to online critics.\r\nDuring the quarantine period, Evangelista kept herself bus… [+6801 chars]"
         },
         {
             "source": {
@@ -47,64 +73,194 @@
                 "name": "CNN Philippines"
             },
             "author": null,
-            "title": "7.3 million Filipinos jobless in April amid COVID-19 pandemic – PSA - CNN Philippines",
-            "description": "The COVID-19 pandemic rendered more Filipinos jobless in April, with the Philippine Statistics Authority reporting an all-time high 7.3 million unemployed adults in the country.",
-            "url": "http://www.cnnphilippines.com/business/2020/6/5/unemployment-April-2020-COVID-19.html",
-            "urlToImage": "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2020/3/16/Coronavirus-manila-quarantine-031620/Coronavirus-manila-quarantine-031620_28_CNNPH.jpg/jcr:content/Coronavirus-manila-quarantine-031620_28_CNNPH.jpg",
-            "publishedAt": "2020-06-05T05:23:27Z",
-            "content": "Metro Manila (CNN Philippines, June 5) The COVID-19 pandemic rendered more Filipinos jobless, with the Philippine Statistics Authority reporting 7.3 million unemployed adults in April.\r\nThe PSA repor… [+3809 chars]"
+            "title": "Salceda joins colleagues in withdrawing vote for Anti-Terrorism Bill - CNN Philippines",
+            "description": "Albay second district Rep. Joey Salceda requests to change his vote on the controversial Anti-Terror Bill into ab abstention due to the lack of a bicameral conference committee meeting to tackle what he calls vague provisions",
+            "url": "http://cnnphilippines.com/news/2020/6/6/joey-salceda-withdraws-vote-anti-terrorism-bill.html",
+            "urlToImage": "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2020/1/28/joey-salceda.jpg/jcr:content/joey%20salceda.jpg",
+            "publishedAt": "2020-06-05T22:44:42Z",
+            "content": "Metro Manila (CNN Philippines, June 6) Albay second district Rep. Joey Salceda joined some of his colleagues who withdrew their vote for the controversial Anti-Terrorism Bill for lack of a meeting wi… [+1682 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Businessmirror.com.ph"
+                "name": "Cosmo.ph"
             },
-            "author": "Claudeth Mocon-Ciriaco",
-            "title": "DOH releases benefits of 32 doctors who died at the front lines | Claudeth Mocon-Ciriaco - Business Mirror",
-            "description": "The Department of Health (DOH) on Thursday released the first of 32 checks for the surviving family members of healthcare workers (HCWs) who died while taking care of Covid-19 patients. DOH Secretary Francisco T. Duque III said that the check was released thr…",
-            "url": "https://businessmirror.com.ph/2020/06/05/doh-releases-benefits-of-32-doctors-who-died-at-the-front-lines/",
-            "urlToImage": "https://businessmirror.com.ph/wp-content/uploads/2020/05/faith02-051720.jpg",
-            "publishedAt": "2020-06-04T16:33:05Z",
-            "content": "The Department of Health (DOH) on Thursday released the first of 32 checks for the surviving family members of healthcare workers (HCWs) who died while taking care of Covid-19 patients.\r\nDOH Secretar… [+2886 chars]"
+            "author": null,
+            "title": "Vote: What Is The Best Cookie? - Cosmopolitan Philippines",
+            "description": "Yung mawala na lahat, 'wag lang 'tong specific cookie na 'to.",
+            "url": "https://www.cosmo.ph/lifestyle/food-drink/best-cookie-poll-a704-20200606",
+            "urlToImage": "http://images.summitmedia-digital.com/cosmo/images/2020/06/03/types-of-cookies-1591184689.png",
+            "publishedAt": "2020-06-05T22:00:00Z",
+            "content": "Unpopular opinion: Chocolate chip cookies are good, they're hard to get wrong, but snickerdoodles deserve a special place in heaven. IT'S JUST BETTER. In case you didn't know, the star ingredients of… [+579 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Abs-cbn.com"
+                "name": "NASASpaceflight.com"
             },
-            "author": "ABS-CBN News",
-            "title": "Doctors, nurses, health workers infected with COVID-19 in PH reach 2,703 - ABS-CBN News",
-            "description": "The Department of Health COVID-19 situationer also showed 8 new recovered health workers for a total of 1,465 recoveries; the deaths remained at 32.",
-            "url": "https://news.abs-cbn.com/news/06/04/20/doctors-nurses-health-workers-infected-with-covid-19-in-ph-reach-2703",
-            "urlToImage": "https://sa.kapamilya.com/absnews/abscbnnews/media/2020/news/06/01/20200422-ppe-wearing-demo-ynares-jc-0532.jpg?ext=.jpg",
-            "publishedAt": "2020-06-04T13:39:00Z",
-            "content": "MANILA — The number of health workers infected with COVID-19 in the Philippines has reached 2,703 as of Wednesday, June 3, according to the health department.\r\nThis is 28 cases higher than the day be… [+1229 chars]"
+            "author": null,
+            "title": "SpaceX set for a swift return to testing following Starship SN4 anomaly - NASASpaceflight.com",
+            "description": "Following the May 29 explosive failure of the Starship SN4 prototype during a Static Fire…",
+            "url": "https://www.nasaspaceflight.com/2020/06/spacex-swift-testin-starship-sn4-anomaly/",
+            "urlToImage": "https://www.nasaspaceflight.com/wp-content/uploads/2020/06/NSF-2020-06-05-21-36-40-517.jpg",
+            "publishedAt": "2020-06-05T21:56:21Z",
+            "content": "Following the May 29 explosive failure of the Starship SN4 prototype during a Static Fire test, SpaceX workers have been quickly making repairs to its Boca Chica, Texas launch facility. Starship SN5 … [+5321 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Launching America On a Commercial Spacecraft on This Week @NASA – June 5, 2020 - NASA",
+            "description": "Launching America on a commercial spacecraft, a NASA astronaut is headed back to the space station, and new close-up imagery of asteroid Bennu … a few of the...",
+            "url": "https://www.youtube.com/watch?v=A60gk5gXMvc",
+            "urlToImage": "https://i.ytimg.com/vi/A60gk5gXMvc/maxresdefault.jpg",
+            "publishedAt": "2020-06-05T21:14:09Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
                 "name": "Rappler"
             },
-            "author": "https://www.facebook.com/AFPnewsenglish",
-            "title": "Brazil to test vaccine as Europe emerges from lockdown - Rappler",
-            "description": "WHO says it would resume trials of hydroxychloroquine a week after halting them following a study that suggested the drug could harm COVID-19 patients",
-            "url": "https://www.rappler.com/world/global-affairs/262833-brazil-test-vaccine-europe-emerges-lockdown-coronavirus-june-4-2020",
-            "urlToImage": "https://assets.rappler.com/85556C8F16C64B54A91E6E3382A3D78C/img/3D7609ADC99D40429D277CF047822C4D/afp-brazil-coronavirus-000_1RU5BW-202000519.jpg",
-            "publishedAt": "2020-06-04T01:09:00Z",
+            "author": "https://www.facebook.com/bonz.magsambol",
+            "title": "DepEd: 5 million students register during 1st week of remote enrollment - Rappler",
+            "description": "The initial number of enrollees is less than a fifth of last year's 27.7 million student population in primary and secondary schools",
+            "url": "https://www.rappler.com/nation/263034-5-million-students-first-week-remote-enrollment",
+            "urlToImage": "https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/7960F3762D984AEAB8DEF6744DD87149/school-opening-corazon-aquino-elementary-june-4-2018-007_2ae04dd75f774bbca06d6b61de75ac03.jpg",
+            "publishedAt": "2020-06-05T21:08:14Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Science Daily"
+                "name": "Inquirer.net"
+            },
+            "author": "Jovic Yee, Julie M. Aurelio, Marlon Ramos",
+            "title": "Kin of 13 out of 32 fallen front-liners compensated - INQUIRER.net",
+            "description": "The Department of Health (DOH) on Friday said it had compensated at least 13 health workers out of the 32 who had died fighting the new coronavirus disease (COVID-19), a day after President Duterte",
+            "url": "https://www.inquirer.net",
+            "urlToImage": "https://newsinfo.inquirer.net/files/2020/06/News52018-620x413.jpg",
+            "publishedAt": "2020-06-05T21:05:00Z",
+            "content": "The Department of Health (DOH) on Friday said it had compensated at least 13 health workers out of the 32 who had died fighting the new coronavirus disease (COVID-19), a day after President Duterte w… [+6749 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNN Philippines"
             },
             "author": null,
-            "title": "Ocean uptake of carbon dioxide could drop as carbon emissions are cut: Shrinkage due to COVID-19 may provide case in point - Science Daily",
-            "description": "The ocean is so sensitive to declining greenhouse gas emissions that it immediately responds by taking up less carbon dioxide, says a new study. The authors say we may soon see this play out due to the COVID-19 pandemic lessening global fuel consumption; they…",
-            "url": "https://www.sciencedaily.com/releases/2020/06/200603130016.htm",
-            "urlToImage": null,
-            "publishedAt": "2020-06-04T00:11:21Z",
-            "content": "Volcanic eruptions and human-caused changes to the atmosphere strongly influence the rate at which the ocean absorbs carbon dioxide, says a new study. The ocean is so sensitive to changes such as dec… [+5037 chars]"
+            "title": "Everything will have to go 'perfectly' to have coronavirus vaccine by January, experts say - CNN Philippines",
+            "description": "Infectious disease experts from the National Institutes of Health and the Fred Hutchinson Cancer Research Center said the chances of developing a successful COVID-19 vaccine by January is an extremely ambitious challenge, but it’s possible",
+            "url": "http://www.cnnphilippines.com/world/2020/6/6/everything-perfectly-coronavirus-vaccine-january.html",
+            "urlToImage": "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2020/6/6/coronavirus-vaccine_CNNPH.jpg/jcr:content/coronavirus-vaccine_CNNPH.jpg",
+            "publishedAt": "2020-06-05T21:02:35Z",
+            "content": "(CNN) - Infectious disease experts from the National Institutes of Health and the Fred Hutchinson Cancer Research Center said the chances of developing a successful COVID-19 vaccine by January is an … [+1690 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Mad Ants season over as NBA G League cancels remainder of slate - WANE 15 News",
+            "description": "Mad Ants season over as NBA G League cancels remainder of slate",
+            "url": "https://www.youtube.com/watch?v=Hlpjh28j9go",
+            "urlToImage": "https://i.ytimg.com/vi/Hlpjh28j9go/maxresdefault.jpg",
+            "publishedAt": "2020-06-05T20:52:21Z",
+            "content": "Mad Ants season over as NBA G League cancels remainder of slate"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Elizabeth Howell",
+            "title": "Stadium-size asteroid will safely fly by Earth tonight - Space.com",
+            "description": "Don't worry, there's no chance it will hit Earth.",
+            "url": "https://www.space.com/asteroid-2002-nn4-earth-flyby-june-2020.html",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/DdBc543qCK9i7WgsjkJGRC-1200-80.jpg",
+            "publishedAt": "2020-06-05T20:52:00Z",
+            "content": "While 2020 continues to be a difficult year, there is a little good news to look forward to tonight (June 5): a near-Earth asteroid will whiz safely by our planet, and astronomers may be able to see … [+2471 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Snopes.com"
+            },
+            "author": "David Mikkelson",
+            "title": "A Few Superspreaders Transmit the Majority of Coronavirus Cases - Snopes.com",
+            "description": "Several recent preprint studies, which haven’t yet been peer-reviewed, have shed light on the role of superspreading in COVID-19’s dispersion around the globe.",
+            "url": "https://www.snopes.com/news/2020/06/05/a-few-superspreaders-transmit-the-majority-of-coronavirus-cases/",
+            "urlToImage": "https://www.snopes.com/tachyon/2020/06/getty_crowd.jpg",
+            "publishedAt": "2020-06-05T20:25:17Z",
+            "content": "This article is republished here with permission from The Conversation. This content is shared here because the topic may interest Snopes readers; it does not, however, represent the work of Snopes f… [+6669 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Kevin Durant coming back would change the Eastern Conference — Doug Gottlieb | NBA | THE HERD - The Herd with Colin Cowherd",
+            "description": "With the NBA's return growing closer, some are wondering if Kevin Durant will return and play for the Brooklyn Nets. Hear why Doug Gottlieb thinks the Easter...",
+            "url": "https://www.youtube.com/watch?v=o4imt7VvGJM",
+            "urlToImage": "https://i.ytimg.com/vi/o4imt7VvGJM/maxresdefault.jpg",
+            "publishedAt": "2020-06-05T19:50:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Washingtonpolicy.org"
+            },
+            "author": "",
+            "title": "After COVID – work will look different » Publications » Washington Policy Center - Washington Policy",
+            "description": "",
+            "url": "https://www.washingtonpolicy.org/publications/detail/after-covid-work-will-look-different",
+            "urlToImage": "https://www.washingtonpolicy.org/library/imglib/iStock-1210684792.jpg",
+            "publishedAt": "2020-06-05T19:45:29Z",
+            "content": "One thing is sure, work will look different in a post COVID-19 world. Many employers that sent employees home to work remotely during the crisis, are reconsidering work at home policies after the COV… [+2702 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Coronavirus death toll passes 40000 as Matt Hancock tells Britons not to attend protests - The Telegraph",
+            "description": "The UK has surpassed a grim milestone, with more than 40,000 coronavirus related fatalities since the pandemic began, according to figures from the Departmen...",
+            "url": "https://www.youtube.com/watch?v=DA8aOaRSbSs",
+            "urlToImage": "https://i.ytimg.com/vi/DA8aOaRSbSs/maxresdefault.jpg",
+            "publishedAt": "2020-06-05T18:41:48Z",
+            "content": "The UK has surpassed a grim milestone, with more than 40,000 coronavirus related fatalities since the pandemic began, according to figures from the Department for Health and Social Care.\r\nA total of … [+512 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Drive"
+            },
+            "author": "James Gilboy",
+            "title": "This Iconic Nissan Skyline GT-R R33 'Speed Wagon' Can Be Yours for $85000 - The Drive",
+            "description": "This exact car was so popular that it was included in a video game for the original PlayStation.",
+            "url": "https://www.thedrive.com/news/33884/this-iconic-nissan-skyline-gt-r-r33-speed-wagon-can-be-yours-for-85000",
+            "urlToImage": "https://api.thedrive.com/wp-content/uploads/2020/06/748597_b8caaaef9d0b4aea94080477f9be9697mv2.jpg?quality=85",
+            "publishedAt": "2020-06-05T18:33:43Z",
+            "content": "Technically known as the shooting brake, the two-door wagon has never been a common body style. Weird proportions and questionable practicality repel buyers, whose low interest in turn makes automake… [+958 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motor1 "
+            },
+            "author": "Chris Bruce",
+            "title": "Next-Gen BMW X1 Spied For First Time - Motor1 ",
+            "description": "It looks like BMW is working on a smaller grille, rather than a bigger one, for a change.",
+            "url": "https://www.motor1.com/news/427231/next-bmw-x1-spy-shots/",
+            "urlToImage": "https://cdn.motor1.com/images/mgl/7JV1P/s1/bmw-x1-spy-photos.jpg",
+            "publishedAt": "2020-06-05T16:17:06Z",
+            "content": "Here's our very first look at the next-gen BMW X1, and the little crossover is still wearing some heavy camouflage. Even with the covering, it looks like there could be some big changes for the new m… [+1603 chars]"
         }
     ]
 }

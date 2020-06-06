@@ -16,7 +16,7 @@
           </v-img>
           <v-card-text class="text--primary">{{article.content}}</v-card-text>
           <v-card-actions>
-            <v-btn color="orange" :href="article.url">Open Article</v-btn>
+            <v-btn color="orange" :href="article.url" target="_blank">Open Article</v-btn>
           </v-card-actions>
         </v-card>
       </v-col>
