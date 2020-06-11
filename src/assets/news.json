@@ -5,67 +5,119 @@
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Inquirer.net"
+            },
+            "author": "Christia Marie Ramos",
+            "title": "Filipina cruise ship worker commits suicide while awaiting repatriation - INQUIRER.net",
+            "description": "MANILA, Philippines — A female cruise ship worker awaiting repatriation to the Philippines died in an apparent suicide amid the coronavirus pandemic, Foreign Affairs Secretary Teodoro Locsin Jr said",
+            "url": "https://www.inquirer.net",
+            "urlToImage": "https://globalnation.inquirer.net/files/2020/05/14444690_675777269243777_606894884895332012_o-620x465.jpg",
+            "publishedAt": "2020-06-11T04:32:00Z",
+            "content": "MANILA, Philippines A female cruise ship worker awaiting repatriation to the Philippines died in an apparent suicide amid the coronavirus pandemic, Foreign Affairs Secretary Teodoro Locsin Jr said on… [+2084 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abs-cbn.com"
+            },
+            "author": "ABS-CBN News",
+            "title": "China troll army, massive funds could influence 2022 polls: ex-Justice Carpio - ABS-CBN News",
+            "description": "MANILA - The fear of Chinese interference in the Philippine elections in 2022 is very valid, retired Supreme Court Associate Justice Antonio Carpio said Thursday.",
+            "url": "https://news.abs-cbn.com/news/06/11/20/china-troll-army-massive-funds-could-influence-2022-polls-ex-justice-carpio",
+            "urlToImage": "https://sa.kapamilya.com/absnews/abscbnnews/media/2020/afp/06/11/chinese-soldiers.jpg",
+            "publishedAt": "2020-06-11T04:08:00Z",
+            "content": "MANILA - The fear of Chinese interference in the Philippine elections is very valid, retired Supreme Court Associate Justice Antonio Carpio warned Thursday, noting that Beijing could fund its preferr… [+4667 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mb.com.ph"
+            },
+            "author": "Jaleen Ramos",
+            "title": "BIR directs online sellers to register before July 31 - Manila Bulletin",
+            "description": "<p>The Bureau of Internal Revenue (BIR) has directed online sellers and other clients having transactions made through digital platforms to register their activities and declare past transactions before July 31.</p>",
+            "url": "https://news.mb.com.ph/2020/06/11/bir-directs-online-sellers-to-register-before-july-31/",
+            "urlToImage": "https://news.mb.com.ph/wp-content/uploads/2019/02/BIR123-e1576638946213.jpg",
+            "publishedAt": "2020-06-11T04:01:22Z",
+            "content": "By Marjaleen Ramos\r\nThe Bureau of Internal Revenue (BIR) has directed online sellers and other clients having transactions made through digital platforms to register their activities and declare past… [+1606 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Bruce Dorminey",
+            "title": "What A Trump Loss In November Would Mean For NASA’s Lunar Return - Forbes",
+            "description": "NASA Administrator Jim Bridenstine tells me that despite the pandemic, the agency will do its utmost to meet the 2024 Artemis lunar return deadline.",
+            "url": "https://www.forbes.com/sites/brucedorminey/2020/06/10/what-a-trump-loss-in-november--would-mean-for-nasas-lunar-return/",
+            "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee1a708298ad300068f4198%2F0x0.jpg",
+            "publishedAt": "2020-06-11T03:53:54Z",
+            "content": "Artist's concept of the Space Launch System rocket and Orion capsule prepared for launch. \r\nNASA\r\nAny chances NASA seems to get to make good on its long-held promises to return crews to the lunar sur… [+3224 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Klgadgetguy.com"
             },
             "author": null,
-            "title": "Department of Health updates on coronavirus in the Philippines | Wednesday, June 10 - Rappler",
-            "description": "The Department of Health gives the latest updates on the novel coronavirus (COVID-19) situation in the Philippines on Wednesday, June 10",
-            "url": "https://www.youtube.com/watch?v=Ciu_nCnhXlg",
-            "urlToImage": "https://i.ytimg.com/vi/Ciu_nCnhXlg/maxresdefault_live.jpg",
-            "publishedAt": "2020-06-10T08:32:49Z",
+            "title": "Huawei nova 7 and nova 7 SE to debut on June 19 with a 64MP quad camera - KLGadgetGuy - KLGadgetGuy - Explore, Educate, Smartphones, Computers, Automotive Tech",
+            "description": "The HUAWEI nova 7 and nova 7 SE are debuting in Malaysia soon to join the nova 7i in Malaysia. The two newer models will be equipped with 5G connectivity,",
+            "url": "https://klgadgetguy.com/2020/06/11/huawei-nova-7-nova-7-se/",
+            "urlToImage": "https://klgadgetguy.com/wp-content/uploads/2020/06/nova1a.jpg",
+            "publishedAt": "2020-06-11T03:41:32Z",
+            "content": "The HUAWEI nova 7 and nova 7 SE are debuting in Malaysia soon to join the nova 7i in Malaysia. The two newer models will be equipped with 5G connectivity, unlike the nova 7i.\r\nHUAWEI nova 7 SE\r\nInter… [+1828 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Executivetraveller.com"
+            },
+            "author": "David Flynn",
+            "title": "Singapore Airlines opens Changi Airport transit for Australia, NZ - Executive Traveller",
+            "description": "Travellers can once again transit through Singapore's Changi Airport but the experience will be very different from the past.",
+            "url": "https://www.executivetraveller.com/news/singapore-airlines-changi-transit",
+            "urlToImage": "https://www.executivetraveller.com/photos/view/size:1200,675/5ee16a7d68bc411d8fc75ebbdd799463-singapore-airlines-changi-transit-2000a.jpg",
+            "publishedAt": "2020-06-11T03:06:46Z",
+            "content": "Singapore Airlines is now able to fly passengers from Australia and New Zealand through Singapore’s Changi Airport and onto the rest of its regional and international network – although the transit p… [+5125 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Inquirer.net"
+            },
+            "author": "Neil Arwin Mercado",
+            "title": "DOLE activates virus tracking system for returning OFWs - INQUIRER.net",
+            "description": "MANILA, Philippines — A database to keep track of all overseas Filipino workers (OFWs) who intend to return to the country during the coronavirus disease (COVID-19) crisis has been activated, the",
+            "url": "https://globalnation.inquirer.net/188377/dole-activates-tracking-system-for-ofws-returning-during-covid-19-crisis",
+            "urlToImage": "https://globalnation.inquirer.net/files/2020/03/WhatsApp-Image-2020-03-26-at-1.01.43-PM-1-620x465.jpeg",
+            "publishedAt": "2020-06-11T02:33:00Z",
+            "content": "MANILA, Philippines A database to keep track of all overseas Filipino workers (OFWs) who intend to return to the country during the coronavirus disease (COVID-19) crisis has been activated, the Depar… [+2792 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GMA News"
+            },
+            "author": "",
+            "title": "DepEd’s Briones: Almost 10M students signed up on first eight days of enrollment - GMA News",
+            "description": "During a Senate hearing, Education Secretary Leonor Briones said the enrollment turnout rate is equivalent to 36.26% of the Department of Education&#39;s (DepEd) projected enrollment for this year. Of the total number, 577,695 enrolled in kindergarten, 4.8 mi…",
+            "url": "https://www.gmanetwork.com/news/news/nation/742135/deped-s-briones-almost-10m-students-signed-up-on-first-eight-days-of-enrollment/story/",
+            "urlToImage": "https://images.gmanews.tv/webpics/2020/02/leonorbriones_2020_02_17_05_49_56.jpg",
+            "publishedAt": "2020-06-11T02:16:00Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Top Gear"
+                "name": "Forbes"
             },
-            "author": "Ollie Kew",
-            "title": "Has this British company 'fixed' the Aston Martin Vantage's face? - Top Gear",
-            "description": "Revenant Automotive will sell you a more traditional grille and bumper for the baby Aston. Like it?",
-            "url": "https://www.topgear.com/car-news/modified/has-british-company-fixed-aston-martin-vantages-face",
-            "urlToImage": "https://www.topgear.com/sites/default/files/styles/16x9_1280w/public/images/news-article/2020/06/e044d3f41fd10c2b66e31c84ac585861/8._revenant_automotive_aston_martin_vantage_bumper_side_profile_on_road.jpg?itok=j2flXn_-",
-            "publishedAt": "2020-06-10T08:00:00Z",
-            "content": "The saga of the Aston Martin Vantages controversial face rumbles on. First, Aston Martin itself had a crack at a new grille when it launched the Vantage Roadster earlier this year. Now, a British com… [+1585 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "The Associated Press",
-            "title": "South Korea to Charge Defector Groups Over North Leaflets - The New York Times",
-            "description": "South Korea’s government said Wednesday that it will press charges against two activist groups that have been floating anti-Pyongyang leaflets and bottles filled with rice to North Korea.",
-            "url": "https://www.nytimes.com/aponline/2020/06/10/world/asia/ap-as-koreas-tensions-.html",
-            "urlToImage": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-            "publishedAt": "2020-06-10T07:31:00Z",
-            "content": "Yoh said that the two groups, led by North Korean defector Park Sang-hak and his brother Park Jung-oh, violated a law governing inter-Korean exchanges and cooperation by sending unauthorized material… [+2049 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Sherisse Pham and Kaori Enjoji, CNN Business",
-            "title": "SoftBank says it tested 44,000 people for Covid-19 antibodies, more than any other Japanese company - CNN",
-            "description": "Japanese tech conglomerate SoftBank just conducted voluntary Covid-19 antibody tests on more than 44,000 employees, their families, clients and outside medical professionals such as doctors and dentists. The company says it is the largest such test by a Japan…",
-            "url": "https://www.cnn.com/2020/06/10/tech/softbank-test-coronavirus-intl-hnk/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200609233511-softbank-test-coronavirus-super-tease.jpg",
-            "publishedAt": "2020-06-10T07:15:06Z",
-            "content": "Hong Kong/Tokyo (CNN Business)Japanese tech conglomerate SoftBank just conducted voluntary Covid-19 antibody tests on more than 44,000 employees, their families, clients and outside medical professio… [+3185 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Isle of Wight County Press"
-            },
-            "author": "Press Association 2020",
-            "title": "Up to 3000 jobs on the line as Frankie and Benny's confirms 125 sites will shut - Isle of Wight County Press",
-            "description": "The Restaurant Group is asking its landlords to approve an agreement that would slash its rent.",
-            "url": "https://www.countypress.co.uk/news/national/18507458.3-000-jobs-line-frankie-bennys-confirms-125-sites-will-shut/",
-            "urlToImage": "https://www.countypress.co.uk/resources/images/11463776/",
-            "publishedAt": "2020-06-10T07:07:04Z",
-            "content": "Up to 3,000 jobs are on the line as the owner of Frankie and Benny’s announced it was going to close 125 of its sites across the country.\r\nThe Restaurant Group said it was seeking approval from its l… [+2817 chars]"
+            "author": "Alfred Konuwa",
+            "title": "AEW Dynamite Results: News, Notes As FTR Renames Shatter Machine - Forbes",
+            "description": "FTR, formerly known as The Revival in WWE, debuted a new name for The Shatter Machine.",
+            "url": "https://www.forbes.com/sites/alfredkonuwa/2020/06/10/aew-dynamite-results-news-notes-as-ftr-renames-shatter-machine/",
+            "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee179533ecb350006e4a003%2F0x0.jpg",
+            "publishedAt": "2020-06-11T02:13:30Z",
+            "content": "FTR, formerly known as The Revival in WWE, won its AEW debut. \r\nCredit: Allelitewrestling.com \r\nAEW Dynamite featured the debut of FTR, formerly known as The Revival as the former Raw and SmackDown t… [+3843 chars]"
         },
         {
             "source": {
@@ -73,38 +125,90 @@
                 "name": "Rappler"
             },
             "author": "https://www.facebook.com/AFPnewsenglish",
-            "title": "After backlash, WHO clarifies COVID-19 'very rare' transmission remarks - Rappler",
-            "description": "Maria Van Kerkhove, the World Health Organization's COVID-19 technical lead, says: 'I was not stating a policy of WHO'",
-            "url": "https://www.rappler.com/science-nature/life-health/263403-who-clarifies-covid-19-very-rare-transmission-remarks",
-            "urlToImage": "https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/40B8C555AF064D3887CE542D9149FAA4/000_1pt0i8.jpg",
-            "publishedAt": "2020-06-10T06:45:00Z",
+            "title": "US approaching 2 million coronavirus cases – Johns Hopkins - Rappler",
+            "description": "The US continues to record around 20,000 new cases of COVID-19 every day",
+            "url": "https://www.rappler.com/world/regions/us-canada/263484-united-states-coronavirus-cases-june-11-2020",
+            "urlToImage": "https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/DDD09949415E4E9C876ABF28E7A767CE/000_1sv12z.jpg",
+            "publishedAt": "2020-06-11T01:35:00Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Firstpost"
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Astronomers find a star-planet pair that mimics the relationship between our Sun and Earth - Firstpost",
-            "description": "Scientists have been trying to find Earth-like planets with the hope that these exoplanets might contain life and this is the first time they have found it.",
-            "url": "https://www.firstpost.com/tech/science/astronomers-find-a-star-planet-pair-that-mimics-the-relationship-between-our-sun-and-earth-8468161.html",
-            "urlToImage": "https://images.firstpost.com/wp-content/uploads/2020/06/planets-1068198_1280-1.jpg",
-            "publishedAt": "2020-06-10T06:16:21Z",
-            "content": "FP TrendingJun 10, 2020 11:30:27 IST\r\nLife exists on Earth because of the planets optimal distance from the Sun that enables liquid surface water to be present here. If our orbit was slightly more di… [+2749 chars]"
+            "title": "WATCH: Chief Justice Peralta meets the press online - Rappler",
+            "description": "Chief Justice Diosdado Peralta will take questions from the justice beat on Thursday, June 11, beginning 9 am, in an online conference call",
+            "url": "https://www.youtube.com/watch?v=qgBbEUSGmo0",
+            "urlToImage": "https://i.ytimg.com/vi/qgBbEUSGmo0/hqdefault.jpg",
+            "publishedAt": "2020-06-11T01:18:55Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Mb.com.ph"
+                "name": "Rappler"
             },
-            "author": "Carlo Anolin",
-            "title": "PBA D-League: Restart depends on collegiate schedule - Manila Bulletin",
-            "description": "<p>The fate of the PBA D-League Aspirants’ Cup will depend on when the collegiate leagues will start their respective seasons which could be delayed due to the coronavirus pandemic.</p>",
-            "url": "https://sports.mb.com.ph/2020/06/10/pba-d-league-restart-depends-on-collegiate-schedule/",
-            "urlToImage": "https://sports.mb.com.ph/wp-content/uploads/2020/03/PBA-Image7-4.jpg",
-            "publishedAt": "2020-06-10T05:53:47Z",
-            "content": "By Jonas Terrado\r\nThe fate of the PBA D-League Aspirants Cup will depend on when the collegiate leagues will start their respective seasons which could be delayed due to the coronavirus pandemic.\r\nMa… [+1850 chars]"
+            "author": "https://www.facebook.com/AFPnewsenglish",
+            "title": "New research shows why non-smokers get serious lung condition - Rappler",
+            "description": "The authors of a new study say it's linked to how certain people's lungs developed earlier on in their lives",
+            "url": "https://www.rappler.com/science-nature/life-health/263479-new-research-non-smokers-serious-lung-condition",
+            "urlToImage": "https://assets.rappler.com/8DE9F785B08942E287F77FA6D4C6D442/img/19C1B985CBAA437AB2DC3195BA55C7BD/000_Hkg7718246.jpg",
+            "publishedAt": "2020-06-11T01:17:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Poppy Koronka, CNN",
+            "title": "Architects have designed a Martian city for the desert outside Dubai - CNN",
+            "description": "Architects Bjarke Ingels Group have designed a prototype of a city suitable for sustaining life on Mars -- and then adapted it for use in the Emirati desert.",
+            "url": "https://www.cnn.com/style/article/mars-science-city-design-spc-scn/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200603132600-mars-science-city-first-phase-exterior-dubai-super-tease.jpg",
+            "publishedAt": "2020-06-11T01:15:00Z",
+            "content": "Dubai is a city where firefighters use jetpacks, archipelagos are built from scratch, and buildings climb into the clouds; a slick metropolis in the middle of a vast red desert. First-time visitors w… [+6329 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GMA News"
+            },
+            "author": "",
+            "title": "Family of mom who died while waiting for bus ride to Bicol gets assistance - GMA News",
+            "description": "The local government of Calabanga in Bicol has extended cash assistance to the family of Michelle Silvertino, the woman who died while waiting for a bus ride to Bicol amid the general community quarantine.",
+            "url": "https://www.gmanetwork.com/news/news/metro/742118/family-of-mom-who-died-while-waiting-for-bus-ride-to-bicol-gets-assistance/story/",
+            "urlToImage": "https://images.gmanews.tv/webpics/2020/06/reeltime_2020_06_10_21_54_12.jpg",
+            "publishedAt": "2020-06-10T23:50:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Silver Screen and Roll "
+            },
+            "author": "Christian Rivas",
+            "title": "Lakers News: NBA won’t discipline players who choose not to play in Orlando - Silver Screen and Roll ",
+            "description": "Players that don’t want to make the trip to Orlando won’t have to, but they might lose out on money.",
+            "url": "https://www.silverscreenandroll.com/2020/6/10/21287190/lakers-news-nba-orlando-bubble-city-safety-concerns-espn-report-stay-home-option",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/6Xq58c-RakXs2SCybbV0vlAedCo=/0x49:3000x1620/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19863600/1211439213.jpg.jpg",
+            "publishedAt": "2020-06-10T23:40:50Z",
+            "content": "Over the past week, the NBA has made serious progress towards restarting its season, getting approval from the Board of Governors and Players Association. However, there are still hurdles that need t… [+2314 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "William J. Broad",
+            "title": "Second Woman to Make Challenger Deep Ocean Dive - The New York Times",
+            "description": "The mountaineer Vanessa O’Brien is set to dive to the Challenger Deep, seven miles below the surface of the sea.",
+            "url": "https://www.nytimes.com/2020/06/10/science/vescovo-obrien-challenger-deep-ocean.html",
+            "urlToImage": "https://static01.nyt.com/images/2020/06/10/science/10TRENCH1/10TRENCH1-facebookJumbo.jpg",
+            "publishedAt": "2020-06-10T23:30:12Z",
+            "content": "Ms. OBrien told Forbes in April that she decided to pay for her part of the expedition in lieu of signing up backers, as extreme adventure fans often do. It didnt seem appropriate to try and find spo… [+1121 chars]"
         },
         {
             "source": {
@@ -112,155 +216,51 @@
                 "name": "CNN Philippines"
             },
             "author": null,
-            "title": "Covid-19 is Dr. Anthony Fauci's 'worst nightmare' - CNN Philippines",
-            "description": "Coronavirus is",
-            "url": "http://www.cnnphilippines.com/world/2020/6/10/COVID-19-Fauci-worst-nightmare.html",
-            "urlToImage": "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2020/5/22/Dr-Anthony-Fauci_CNNPH.jpg/jcr:content/Dr-Anthony-Fauci_CNNPH.jpg",
-            "publishedAt": "2020-06-10T05:49:56Z",
-            "content": "(CNN) -- Coronavirus is \"my worst nightmare,\" in some ways more than Ebola or HIV, Dr. Anthony Fauci said Tuesday.\r\n\"Ebola was scary, but Ebola would never be easily transmitted,\" Fauci, director of … [+3547 chars]"
+            "title": "IATF OKs reopening restaurant dine-in under GCQ areas - CNN Philippines",
+            "description": "Trade Secretary Ramon Lopez says the gradual reopening of these establishments will help the workers and the country bring back its losses incurred during one of the longest community quarantine imposed all over the world.",
+            "url": "http://www.cnnphilippines.com/news/2020/6/11/GCQ-Metro-Manila-Cebu-restaurant-dine-in-COVID-19.html",
+            "urlToImage": "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2020/6/11/COVID-19-Mcdo_3_CNNPH.jpg/jcr:content/COVID-19-Mcdo_3_CNNPH.jpg",
+            "publishedAt": "2020-06-10T23:28:07Z",
+            "content": "Metro Manila (CNN Philippines, June 11) The COVID-19 task force has approved the recommendation to allow restaurants located in general community quarantine (GCQ) areas to partially resume dine-in se… [+2411 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NDTV News"
+                "name": "New York Times"
             },
-            "author": "Reuters",
-            "title": "Roscosmos Chief Dmitry Rogozin Complains About American Jokes - Gadgets 360",
-            "description": "Americans should show more respect for Russia's space programme after relying on it for nine years as the only way to send US astronauts into orbit, the head of Russia's space agency said.",
-            "url": "https://gadgets.ndtv.com/science/news/roscosmos-chief-dmitry-rogozin-complains-about-american-jokes-2243731",
-            "urlToImage": "https://i.gadgets360cdn.com/large/russia_space_head_us_criticism_spacex_mission_large_1591767755971.jpg",
-            "publishedAt": "2020-06-10T05:47:25Z",
-            "content": "Americans should show more respect for Russia's space programme after relying on it for nine years as the only way to send US astronauts into orbit, the head of Russia's space agency said.\r\nThe Unite… [+1293 chars]"
+            "author": "Christopher Clarey",
+            "title": "Roger Federer Won’t Play in 2020 After Knee Surgery - The New York Times",
+            "description": "Given the coronavirus pandemic, it is unclear exactly how many events Federer will miss.",
+            "url": "https://www.nytimes.com/2020/06/10/sports/tennis/roger-federer-injury.html",
+            "urlToImage": "https://static01.nyt.com/images/2020/06/10/sports/10federer/10federer-facebookJumbo.jpg",
+            "publishedAt": "2020-06-10T22:03:48Z",
+            "content": "U.S. Open officials plan to announce next week whether their tournament can be played. But concerns about the pandemic and the players ability to travel internationally could still force the U.S. Ope… [+1137 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Mb.com.ph"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Carlo Anolin",
-            "title": "PVL eyes Open Conference in September - Manila Bulletin",
-            "description": "<p>The Premier Volleyball League (PVL) targets at least one conference this year to make up for postponed tournaments brought on by the coronavirus pandemic.</p>",
-            "url": "https://sports.mb.com.ph/2020/06/10/pvl-eyes-open-conference-in-september/",
-            "urlToImage": "https://sports.mb.com.ph/wp-content/uploads/2019/09/Alyssa-Jia.jpg",
-            "publishedAt": "2020-06-10T05:40:23Z",
-            "content": "By Kristel Satumbaga\r\nThe Premier Volleyball League (PVL) targets at least one conference this year to make up for postponed tournaments brought on by the coronavirus pandemic.\r\nCreamline’s Alyssa Va… [+1653 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CinemaBlend"
-            },
-            "author": "Mick Joest",
-            "title": "America's Got Talent's Heidi Klum Under Fire For Seemingly Body Shaming Young Competitor - CinemaBlend",
-            "description": "Did Heidi Klum cross a line on America's Got Talent?",
-            "url": "https://www.cinemablend.com/television/2547906/americas-got-talents-heidi-klum-under-fire-for-seemingly-body-shaming-young-competitor",
-            "urlToImage": "https://img.cinemablend.com/quill/a/e/3/3/a/3/ae33a3449030b78234846967310bbdc369d72489.jpg",
-            "publishedAt": "2020-06-10T05:31:43Z",
-            "content": "Warning! The following contains spoilers for the June 9 episode of America's Got Talent Season 15. Read at your own risk!\r\nAmerica's Got Talent aired what may be its most contentious episode of Seaso… [+4299 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Inquirer.net"
-            },
-            "author": "Cathrine Gonzales",
-            "title": "Canada donates P44 million worth of assistance to help PH fight COVID-19 - INQUIRER.net",
-            "description": "MANILA, Philippines — The government of Canada announced on Wednesday that it is providing more than P44 million worth of additional assistance to the Philippines to help its fight against the",
-            "url": "https://globalnation.inquirer.net/188317/canada-donates-ph-p44-million-worth-of-assistance-to-help-ph-fight-covid-19",
-            "urlToImage": "https://globalnation.inquirer.net/files/2020/05/SARS_red.jpg",
-            "publishedAt": "2020-06-10T05:31:00Z",
-            "content": "MANILA, Philippines The government of Canada announced on Wednesday that it is providing more than P44 million worth of additional assistance to the Philippines to help its fight against the coronavi… [+3406 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Asiatatler.com"
-            },
-            "author": "Kaitlyn McInnis",
-            "title": "The International Space Station Becomes The Next Destination You Can Visit Virtually - Tatler Hong Kong",
-            "description": "The International Space Station has officially opened to the general public by way of virtual tours on Google Arts & Culture.",
-            "url": "https://hk.asiatatler.com/life/international-space-station-virtual-tour",
-            "urlToImage": "https://cdn.asiatatler.com/asiatatler/i/hk/2020/06/10131529-travel-international-space-station-virtual-tour_cover_2000x1327.jpg",
-            "publishedAt": "2020-06-10T05:21:13Z",
+            "author": "Zayn Nabbi, CNN",
+            "title": "Tyson Fury confirms two-fight deal to face Anthony Joshua in heavyweight division - CNN International",
+            "description": "British world heavyweight champions Tyson Fury and Anthony Joshua are set to fight in 2021.",
+            "url": "https://edition.cnn.com/2020/06/10/sport/tyson-fury-anthony-joshua-spt-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302154748-tyson-fury-wilder-rematch-super-tease.jpg",
+            "publishedAt": "2020-06-10T17:10:38Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Mb.com.ph"
+                "name": "The Manila Times"
             },
-            "author": "Rizal Obanil",
-            "title": "Nintendo says 300000 accounts breached after hack » Manila Bulletin Business - Manila Bulletin",
-            "description": "<p>Japanese gaming giant Nintendo has admitted that hackers have breached 300,000 accounts since early April, gaining access to personal information such as birthdays and email addresses but not credit-card details.</p>",
-            "url": "https://business.mb.com.ph/2020/06/10/nintendo-says-300000-accounts-breached-after-hack/",
-            "urlToImage": "https://business.mb.com.ph/wp-content/uploads/2020/06/031532C5-F246-4EFB-8183-390E0D892998.png",
-            "publishedAt": "2020-06-10T05:02:03Z",
-            "content": "By Agence France-Presse\r\nJapanese gaming giant Nintendo has admitted that hackers have breached 300,000 accounts since early April, gaining access to personal information such as birthdays and email … [+1081 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Abs-cbn.com"
-            },
-            "author": "Arianne Merez, ABS-CBN News",
-            "title": "Duterte tells Xi: COVID-19 crisis shows 'greater significance' of nourishing PH-China ties - ABS-CBN News",
-            "description": "The COVID-19 pandemic shows the \"greater significance\" of nourishing the Philippines relationship with China, President Rodrigo Duterte told his Chinese counterpart Xi Jinping as the two nations marked 45 years of diplomatic ties.",
-            "url": "https://news.abs-cbn.com/news/06/10/20/duterte-tells-xi-covid-19-crisis-shows-greater-significance-of-nourishing-ph-china-ties",
-            "urlToImage": "https://sa.kapamilya.com/absnews/abscbnnews/media/2017/news/03/08/20161019-duterte-china-mnib-7.jpg",
-            "publishedAt": "2020-06-10T03:11:00Z",
-            "content": "MANILA- The COVID-19 pandemic shows the \"greater significance\" of nourishing the Philippines relationship with China, President Rodrigo Duterte told his Chinese counterpart Xi Jinping as the two nati… [+1942 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GMA News"
-            },
-            "author": "",
-            "title": "Trade gap down 86.9% in April -PSA - GMA News",
-            "description": "The Philippine trade gap continued to narrow in April as total external trade for the month was halved, the Philippine Statistics Authority (PSA) reported Wednesday.",
-            "url": "https://www.gmanetwork.com/news/money/economy/741956/trade-gap-down-86-9-in-april-psa/story/",
-            "urlToImage": "https://images.gmanews.tv/webpics/2020/04/trade_gap_2020_04_08_18_40_54.JPG",
-            "publishedAt": "2020-06-10T03:10:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GMA News"
-            },
-            "author": "",
-            "title": "Rep. Biazon seeks House probe into surge of fake Facebook accounts - GMA News",
-            "description": "Muntinlupa City Representative Ruffy Biazon has filed a resolution calling for an investigation into what he described as a possible &quot;breach&quot; in the system of social media site Facebook, following the emergence of fake and dummy accounts, that may h…",
-            "url": "https://www.gmanetwork.com/news/news/nation/741954/rep-biazon-seeks-house-probe-into-surge-of-fake-facebook-accounts/story/",
-            "urlToImage": "https://images.gmanews.tv/webpics/2019/09/ruffybiazon_2019_09_30_08_59_01.jpg",
-            "publishedAt": "2020-06-10T03:01:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Mb.com.ph"
-            },
-            "author": "MB Lifestyle",
-            "title": "Anita Linda passes away at 95 - Manila Bulletin",
-            "description": "",
-            "url": "https://lifestyle.mb.com.ph/2020/06/10/anita-linda-passes-away-at-95/",
-            "urlToImage": "https://lifestyle.mb.com.ph/wp-content/uploads/anita-linda-Featured-image.jpg",
-            "publishedAt": "2020-06-10T02:18:29Z",
-            "content": "Award-winning veteran actress Anita Linda has passed away this morning, June 10, at the age of 95.Director Adolf Alix Jr. posted the news on Facebook. This is a very sad day for me. I am trembling as… [+454 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Distractify"
-            },
-            "author": "Devan McGuinness",
-            "title": "BLACKPINK New Song and Album Coming Summer 2020 - Distractify",
-            "description": "Good news from BLACKPINK, a new song and album are coming in the summer of 2020 in what the group is calling a three-stage comeback plan.",
-            "url": "https://www.distractify.com/p/blackpink-new-song",
-            "urlToImage": "https://media.distractify.com/brand-img/5Uu1SLOWe/0x0/blackpink-new-song-1591753735094.png",
-            "publishedAt": "2020-06-10T02:02:00Z",
-            "content": "Fans of BLACKPINK have been patiently waiting for a new album and one is finally on the way. Fans have been waiting for new music since April 2019 when they came through with \"Kill This Love\" EP. The… [+3213 chars]"
+            "author": null,
+            "title": "DICT readies education sector with free internet access – The Manila Times - The Manila Times",
+            "description": "The Department of Information and Communications Technology (DICT) is ramping up the roll out of free internet access to further equip the education sector under the “new normal.” In a statement on Wednesday, the DICT said it was accelerating the expansion of…",
+            "url": "https://www.manilatimes.net/2020/06/11/campus-press/dict-readies-education-sector-with-free-internet-access/730993/",
+            "urlToImage": "https://www.manilatimes.net/wp-content/uploads/2020/02/TMTFB_1200x630.jpg",
+            "publishedAt": "2020-06-10T17:03:32Z",
+            "content": "The Department of Information and Communications Technology (DICT) is ramping up the roll out of free internet access to further equip the education sector under the new normal.\r\nIn a statement on We… [+1374 chars]"
         }
     ]
 }

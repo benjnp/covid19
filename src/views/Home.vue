@@ -1,10 +1,11 @@
 <template>
   <v-container fluid>
     <v-row align="center" justify="center">
-      <h3>Latest News about Covid-19 in the Philippines</h3>
+      <h3>News about Covid-19 in the Philippines</h3>
     </v-row>
     <v-row align="center" justify="center" class="grey lighten-5" style="height: 300px;">
-      <v-col v-for="article in newsData.articles" :key="article.title" cols="5">
+      <v-col v-for="article in newsData.articles" :key="article.title" 
+        sm="5" cols="10">
         <v-card class="ma-3 pa-6" outlined tile>
           <v-img
             :src="article.urlToImage"
@@ -26,7 +27,6 @@
 
 <script>
 // @ is an alias to /src
-//<img alt="Vue logo" src="../assets/anocovid.jpg" />
 
 import News from "../assets/news";
 

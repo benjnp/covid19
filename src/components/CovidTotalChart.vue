@@ -4,7 +4,7 @@
       <div class="row mt-5">
         <div class="col">
           <h4 class="text-center">{{graphTitle1}}</h4>
-          <line-chart :width="500" :height="100" :labels="dates" :datasets="displayDataset1"></line-chart>
+          <line-chart width="200vw" :height="100" :labels="dates" :datasets="displayDataset1"></line-chart>
         </div>
       </div>
     </v-card>
@@ -12,7 +12,7 @@
       <div class="row mt-5">
         <div class="col">
           <h4 class="text-center">{{graphTitle2}}</h4>
-          <line-chart :width="500" :height="100" :labels="dates" :datasets="displayDataset2"></line-chart>
+          <line-chart width="200vw" :height="100" :labels="dates" :datasets="displayDataset2"></line-chart>
         </div>
       </div>
     </v-card>
@@ -20,7 +20,7 @@
       <div class="row mt-5">
         <div class="col">
           <h4 class="text-center">{{graphTitle3}}</h4>
-          <line-chart :width="500" :height="100" :labels="dates" :datasets="displayDataset3"></line-chart>
+          <line-chart width="200vw" :height="100" :labels="dates" :datasets="displayDataset3"></line-chart>
         </div>
       </div>
     </v-card>

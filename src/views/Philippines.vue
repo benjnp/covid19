@@ -279,10 +279,10 @@ export default {
         todayRecovery = 0;
         todayMortality = 0;
       }
-      this.totalRecovery.push(recovery);
-      this.totalMortality.push(mortality);
-      this.dailyRecovery.push(todayRecovery);
-      this.dailyMortality.push(todayMortality);
+      this.totalRecovery.push(recovery.toFixed(2));
+      this.totalMortality.push(mortality.toFixed(2));
+      this.dailyRecovery.push(todayRecovery.toFixed(2));
+      this.dailyMortality.push(todayMortality.toFixed(2));
       this.displayLastDayRecovered = currentRecovered;
       if (dataIndex % 7 === 0) {
         this.weeklyConfirmed.push(thisWeekConfirmed);
@@ -290,10 +290,8 @@ export default {
         this.weeklyDeaths.push(thisWeekDeaths);
         this.weeklyRecovered.push(thisWeekRecovered);
         this.weeklyDates.push(date);
-        this.weeklyRecovery.push(thisWeekRecovery);
-
-        this.weeklyMortality.push(thisWeekMortality);
-
+        this.weeklyRecovery.push(thisWeekRecovery.toFixed(2));
+        this.weeklyMortality.push(thisWeekMortality.toFixed(2));
         thisWeekConfirmed = 0;
         thisWeekActive = 0;
         thisWeekRecovered = 0;
